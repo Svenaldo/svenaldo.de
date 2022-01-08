@@ -32,7 +32,7 @@ twitter_username: svenaldo
 github_username:  svenaldo
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 

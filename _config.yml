@@ -7,9 +7,16 @@ url: "https://svenaldo.de"
 twitter_username: svenaldo
 github_username:  svenaldo
 
+show_excerpts: true # set to true to show excerpts on the homepage
+
 # Build settings
 theme: minima
 minima:
   skin: dark
+  date_format: "%d.%m.%Y"
 plugins:
   - jekyll-feed
+
+header_pages:
+
+  
